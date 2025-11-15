@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Master's student in **Spatial Data Science** @ USC (STEM, GPA 3.71, Class of 2025)  
+- 🎓 Master's student in **Spatial Data Science** @ USC (STEM, Class of 2025)  
 - 💻 Experienced in building **machine learning pipelines, scalable data systems, and web applications**  
 - 🌍 Based in **Los Angeles**, originally from 🇹🇼 Taiwan  
 - 🔎 Passionate about **AI, cloud platforms, and full-stack engineering**  
