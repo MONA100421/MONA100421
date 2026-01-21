@@ -5,8 +5,6 @@
   Bridging business insight with scalable software and machine learning solutions.</em>
 </p>
 
----
-
 ### 🚀 About Me
 
 - 🎓 Master's student in **Spatial Data Science** @ USC (STEM, Class of 2025)  
@@ -15,8 +13,6 @@
 - 🔎 Passionate about **AI, cloud platforms, and full-stack engineering**  
 - 📬 Portfolio: [mona100421.github.io/chenyi/](https://mona100421.github.io/chenyi/)  
 - 💼 Connect: [LinkedIn](https://www.linkedin.com/in/wengchen/)
-
----
 
 ### 🧠 My Journey
 
@@ -27,8 +23,6 @@ Now at USC, I am transforming into a **software engineer and machine learning pr
 crafting solutions that scale from **big data pipelines** to **deep learning models**.  
 
 I believe in combining **business sense + technical execution** to create real-world impact.
-
----
 
 ### 📌 Featured Projects
 
@@ -41,8 +35,6 @@ I believe in combining **business sense + technical execution** to create real-w
 
 ➡️ More projects on my [GitHub](https://github.com/mona100421)
 
----
-
 ### 🛠️ Tech Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -51,13 +43,14 @@ I believe in combining **business sense + technical execution** to create real-w
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
 
 ### 🏆 Highlights
 
